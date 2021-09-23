@@ -15,7 +15,7 @@ public class Exclusivas {
     private static String exclusivas;
     
     public Exclusivas() {
-        exclusivas
+        
     }
     
 
